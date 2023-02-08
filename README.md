@@ -1,10 +1,7 @@
 # Tugas Akhir
-"Penerapan Universal Sentence Encoder (USE) pada Location-Aware Chatbot untuk Aplikasi Layanan Wisata Kebun Binatang" <br/>
-Vania Cikanindi (05111740000193)
+"PENGEMBANGAN SELEKSI RUTE PADA APLIKASI WISATA KEBUN BINATANG DENGAN MENERAPKAN ANALYTICAL HIERARCHY PROCESS" <br/>
+Ridho Ajiraga Jagiswara (05111940000170)
 ## Konten Git
-- Implementasi tugas akhir
-- Buku Tugas Akhir
-- Paper Tugas Akhir
-- PPT Tugas Akhir
-- Poster Tugas Akhir
-- Video Tugas Akhir https://youtu.be/JCHs5juES14
+- 
+- 
+- 
